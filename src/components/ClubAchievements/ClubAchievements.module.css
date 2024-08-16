@@ -1,0 +1,21 @@
+.bronze {
+    list-style-image: url('../../assets/images/Bronze_medal_icon.svg');
+}
+
+.gold-cup {
+    list-style-image: url('../../assets/images/Gold_Cup_icon.svg');
+}
+
+.title {
+    font-weight: bold;
+}
+
+.group {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.body {
+    margin: 0px auto;
+}
